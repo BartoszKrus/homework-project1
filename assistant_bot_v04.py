@@ -1,7 +1,7 @@
 from collections import UserDict
 from datetime import datetime
 import pickle
-
+#teraz zmienię liczenie ilości dni do urodzin
 
 class Field:
     def __init__(self, value=None):
